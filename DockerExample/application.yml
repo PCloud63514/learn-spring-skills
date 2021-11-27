@@ -1,0 +1,4 @@
+domain: example
+message: 안녕하세요!
+server:
+  port: 8282
