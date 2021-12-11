@@ -39,11 +39,11 @@ Spring Boot 동작 시 Property를 찾는 순서입니다. (몇 가지는 제외
 - 운영 서버에 적용할 application-real.properties
 - 개발 서버에 쓰일 application-dev.properties
 - 테스트 과정에 쓰일 application-dev.properties
-
+ 
 자주 변경될 운영, 개발, 테스트 속성 파일의 경우. properties가 한눈에 보기 편하여 사용하였습니다.
-
+ 
 3번의 방법으로 분리 후 1번의 명령어 입력 방법을 통해 각 properties를 별도로 적용하였습니다.
-
+ 
 ### 직접 적용해보기
 
 최종 프로젝트 구조
