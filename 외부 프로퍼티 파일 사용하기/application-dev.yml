@@ -1,4 +1,0 @@
-domain: dev/example
-message: 안녕하세요! 테스트 환경 입니다!!
-server:
-  port: 8282
