@@ -152,4 +152,4 @@ tasks.bootJar.dependsOn(build)
 tasks.buildRun.dependsOn(bootJar)
 ```
 
-https://pcloud.tistory.com/33
+TISTORY BLOG https://pcloud.tistory.com/33
