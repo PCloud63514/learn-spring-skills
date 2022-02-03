@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringSkillsExample.iml" filepath="$PROJECT_DIR$/.idea/SpringSkillsExample.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringSkilsExample.iml" filepath="$PROJECT_DIR$/.idea/SpringSkilsExample.iml" />
+>>>>>>> dad32214e0c63dadac4ef25e4917b551b9bb5d8f
     </modules>
   </component>
 </project>
