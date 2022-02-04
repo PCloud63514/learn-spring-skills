@@ -14,7 +14,7 @@ public class User {
     private String nickName;
     private String password;
 
-    @Builder
+    @Builder(access = AccessLevel.PRIVATE)
     private User(UUID id, String nickName, String password) {
         this.id = id;
         this.nickName = nickName;
